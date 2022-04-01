@@ -1,5 +1,15 @@
-# ADELE
-Official Implementation of "Adaptive Early-Learning Correction for Segmentation from Noisy Annotations"
+# ADELE (Adaptive Early-Learning Correction for Segmentation from Noisy Annotations)
+
+
+Sheng Liu*, Kangning Liu*, Weicheng Zhu, Yiqiu Shen, Carlos Fernandez-Granda
+
+(* The first two authors contribute equally, order decided by coin flipping.)
+
+
+
+
+Official Implementation of [Adaptive Early-Learning Correction for Segmentation from Noisy Annotations](https://arxiv.org/abs/2110.03740) (CVPR 2022 Oral)
+
 
 ## SegTHOR dataset
 
