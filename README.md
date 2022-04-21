@@ -92,6 +92,12 @@ https://drive.google.com/file/d/10cTOraETOmb2jOCJ4E0m_y9lrjrA3g2u/view?usp=shari
 
 The training code will be released soon, inference code is the same as the official code for SEAM. Attach the Code link provide by the SEAM author: https://github.com/YudeWang/semantic-segmentation-codebase/tree/main/experiment/seamv1-pseudovoc
 
-
-
+```
+@article{liu2021adaptive,
+  title={Adaptive Early-Learning Correction for Segmentation from Noisy Annotations},
+  author={Liu, Sheng and Liu, Kangning and Zhu, Weicheng and Shen, Yiqiu and Fernandez-Granda, Carlos},
+  journal={CVPR 2022},
+  year={2022}
+}
+```
 
