@@ -232,7 +232,7 @@ python3  brat/train_segthor.py \
 
 
 
-##Citation
+## Citation
 
 Please cite our paper if the code is helpful to your research.
 ```
