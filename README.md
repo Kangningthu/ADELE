@@ -11,7 +11,7 @@ Sheng Liu*, Kangning Liu*, Weicheng Zhu, Yiqiu Shen, Carlos Fernandez-Granda
 Official Implementation of [Adaptive Early-Learning Correction for Segmentation from Noisy Annotations](https://arxiv.org/abs/2110.03740) (CVPR 2022 Oral)
 
 ## PASCAL VOC dataset
-Thanks to the work of Yude Wang, the code of this repository borrow heavily from his SEAM repository, and we follw the same pipeline to verify the effectiveness of our ADELE. 
+Thanks to the work of Yude Wang, the code of this repository borrows heavily from his SEAM repository, and we follw the same pipeline to verify the effectiveness of our ADELE. 
 We use the same ImageNet pretrained ResNet38 model as SEAM, which can be downloaded from https://github.com/YudeWang/semantic-segmentation-codebase/tree/main/experiment/seamv1-pseudovoc
 
 
