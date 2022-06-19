@@ -84,10 +84,6 @@ The arguments represent:
                         help="threshold to select the mask for Consistency loss computation ")
     parser.add_argument('--DATA_WORKERS', type=int, default=cfg.DATA_WORKERS,
                         help="number of workers in dataloader")
-
-
-    parser.add_argument('--mask_threshold', type=float, default=0.8,
-                        help="only the region with high probability and disagree with Pseudo label be updated")
     parser.add_argument('--TRAIN_LR', type=float,
                         default=cfg.TRAIN_LR,
                         help="the path of trained weight")
@@ -100,6 +96,8 @@ The arguments represent:
 
 
     # related to the pseudo label updating
+    parser.add_argument('--mask_threshold', type=float, default=0.8,
+                        help="only the region with high probability and disagree with Pseudo label be updated")
     parser.add_argument('--update_interval', type=int, default=1,
                         help="evaluate the prediction every 1 epoch")
     parser.add_argument('--npl_metrics', type=int, default=0,
