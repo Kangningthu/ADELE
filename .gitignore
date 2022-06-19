@@ -1,0 +1,3 @@
+sftp*.json
+run*.sh
+train_onebyone_eval_w_compact_dict.py
